@@ -1,6 +1,6 @@
 # AndroidStudio-covid19-records
 ## Description:
- This is an app that works as a tachometer. It tracks the movement of the phone and if it exceeds the given limit, it records the location and timestamp of the this limitation break.
+ This is an app in which the user is a government employee who records Covid-19 cases. The database used in this project is Cloud of Firebase (so any queries regarding the database won't work, as it has not been renewed). The user records the details of the person with the covid-19 case, such as their name, address, phone etc. but also the timestamp of the case. The user is also able to edit the recordings. Ultimately, the app provides some statistics depending on the entries of the database.
  
  <img width="201" alt="CovidExcpic1" src="https://user-images.githubusercontent.com/34765932/136485788-166ac15c-ba22-4579-ba22-1bfaffd11024.PNG">
 
